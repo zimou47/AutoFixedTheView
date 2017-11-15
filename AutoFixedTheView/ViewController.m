@@ -21,7 +21,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.automaticallyAdjustsScrollViewInsets = NO;
-    [self lazyLoadMainScrollView];
+    //123456789
+//    [self lazyLoadMainScrollView];
 }
 
 - (void)lazyLoadMainScrollView
